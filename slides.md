@@ -36,9 +36,9 @@ p {
 
 # Algorithmic Complexity
 
-\[
+\\[
 T(n) = 3n^2 + 2n + 7 \quad \Rightarrow \quad O(n^2)
-\]
+\\]
 
 ---
 
