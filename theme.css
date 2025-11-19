@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+
+section {
+  font-family: "Segoe UI", sans-serif;
+  padding: 40px;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+p, li {
+  font-size: 1.1rem;
+}
+
+section::after {
+  content: attr(data-marp-pagination);
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+  font-size: 0.8rem;
+  color: #555;
+}
