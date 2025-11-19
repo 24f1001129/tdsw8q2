@@ -36,8 +36,6 @@ p {
 
 # Algorithmic Complexity
 
-We can express complexity mathematically using LaTeX:
-
 \[
 T(n) = 3n^2 + 2n + 7 \quad \Rightarrow \quad O(n^2)
 \]
@@ -49,6 +47,13 @@ T(n) = 3n^2 + 2n + 7 \quad \Rightarrow \quad O(n^2)
 # System Architecture Overview
 
 This slide includes a **background image**.
+
+---
+
+# Product Diagram  
+(Example image slide)
+
+![Product Diagram](diagram.png)
 
 ---
 
@@ -69,4 +74,3 @@ This entire deck uses a **custom theme** defined in `theme.css`.
 
 # Thank You  
 **Contact:** 24f1001129@ds.study.iitm.ac.in
-
