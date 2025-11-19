@@ -36,9 +36,7 @@ p {
 
 # Algorithmic Complexity
 
-\(
-T(n) = 3n^2 + 2n + 7 \Rightarrow O(n^2)
-\)
+$a^2 + b^2 = c^2$
 
 ---
 
