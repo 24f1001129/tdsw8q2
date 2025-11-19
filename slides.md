@@ -53,7 +53,8 @@ This slide includes a **background image**.
 # Product Diagram  
 (Example image slide)
 
-![Product Diagram](diagram.png)
+![bg](diagram.png){background=true}
+
 
 ---
 
